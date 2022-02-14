@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TareaCrud-React/static/css/main.0d0cf479.chunk.css",
+    "main.js": "/TareaCrud-React/static/js/main.04322e7d.chunk.js",
+    "main.js.map": "/TareaCrud-React/static/js/main.04322e7d.chunk.js.map",
+    "runtime-main.js": "/TareaCrud-React/static/js/runtime-main.a328ba3c.js",
+    "runtime-main.js.map": "/TareaCrud-React/static/js/runtime-main.a328ba3c.js.map",
+    "static/js/2.f935b79e.chunk.js": "/TareaCrud-React/static/js/2.f935b79e.chunk.js",
+    "static/js/2.f935b79e.chunk.js.map": "/TareaCrud-React/static/js/2.f935b79e.chunk.js.map",
+    "index.html": "/TareaCrud-React/index.html",
+    "static/css/main.0d0cf479.chunk.css.map": "/TareaCrud-React/static/css/main.0d0cf479.chunk.css.map",
+    "static/js/2.f935b79e.chunk.js.LICENSE.txt": "/TareaCrud-React/static/js/2.f935b79e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a328ba3c.js",
+    "static/js/2.f935b79e.chunk.js",
+    "static/css/main.0d0cf479.chunk.css",
+    "static/js/main.04322e7d.chunk.js"
+  ]
+}
